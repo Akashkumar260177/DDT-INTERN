@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IOT</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <nav>
+        <div class="one">
+        <h3>Welcome Jayaprakash E K,</h3>
+        <button class="b" type="submit">LOGOUT</button>
+        </div>
+    </nav>
+    <div class="box1">
+        <img src="/logo ddt.png" width="300px" height="400px">
+    </div>
+</body>
+</html>
